@@ -29,4 +29,4 @@ Clone this repository to a directory of your choice.
 
 ## Authors
 
-* **Zhen Bian** - *Initial work* - [Line-Rasterization](https://github.com/zbian002/Line-Rasterization-)
+* **Zhen Bian** - *Initial work* - [Line-Rasterization](https://github.com/zbian002/Line-Rasterization)
