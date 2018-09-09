@@ -16,10 +16,15 @@ Clone this repository to a directory of your choice.
 * Run: ./rasterize_line
 * Controls:
        c: Clear old lines.
+       
        a: Generate 1K random lines.
+       
        A: Generate 1M random lines.
+       
        m: Toggle between the MPA and the DDA algorithms.
+       
        ]: Increase point size.
+       
        [: Decrease point size.
 
 ## Authors
